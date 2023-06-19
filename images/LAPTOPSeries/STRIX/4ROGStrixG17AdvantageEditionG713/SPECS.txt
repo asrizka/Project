@@ -1,0 +1,29 @@
+(4) ROG Strix G17 Advantage Edition G713 G713QY-K4007R
+
+CPU
+AMD Ryzen™ 9 5900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.6 GHz max boost)
+
+GPU
+AMD® Radeon™ RX 6800M
+12GB GDDR6
+
+DISPLAY
+17.3-inch
+WQHD (2560 x 1440) 16:9
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+165Hz
+Response Time:
+3ms
+IPS-level
+FreeSync Premium
+MS hybrid
+
+RAM
+8GB DDR4-3200 SO-DIMM x 2
+Max Capacity:
+32GB
+
+1TB PCIe® 3.0 NVMe™ M.2 SSD

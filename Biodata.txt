@@ -1,0 +1,17 @@
+Kelompok : Insertcode
+Produk   : E-commerce Laptop ROG (nama ROGEUY)
+NIM & NAMA :
+10121299 - ASRI RIZKA AMELIA
+10121306 - JULFAN ABDURAHMAN
+10121309 - KRISTANTO
+10121311 - RAFLY SIDIQ HERMAWAN
+10121320 - VITO APRILIANTO PERMANA
+
+
+Langkah 1. pindahkan file pada xampp/htdocs
+Langkah 2. lalu nyalakan Xampp
+Langkah 3. lalu tekan start pada Apache, dan MySQL
+Langkah 4. lalu buka localhost/phpmyadmin/ dan tekan new pada kolom kiri dan buat file baru bernama shop_db lalu tekan "create"
+Langkah 5. lalu tekan shop_db dan tekan import yang terletak di sebelah atas, lalu import file bernama shop_db.sql yang berada dalam folder yang didownload
+Langkah 6. lalu masuk ke localhost/namafolder/admin/admin_login.php untuk mengakses website admin
+Langkah 7. lalu masuk ke localhost/namafolder/home.php untuk mengakses tampilan utama homepage

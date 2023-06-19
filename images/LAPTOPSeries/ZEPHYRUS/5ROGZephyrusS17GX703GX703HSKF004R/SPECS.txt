@@ -1,0 +1,32 @@
+(5) ROG Zephyrus S17 GX703 GX703HS-KF004R
+
+CPU
+Intel® Core™ i9-11900H Processor 2.5 GHz (24M Cache, up to 4.9 GHz, 8 Cores)
+
+GPU
+NVIDIA® GeForce RTX™ 3080 Laptop GPU
+With ROG Boost up to 1645MHz at 125W (140W with Dynamic Boost)
+16GB GDDR6
+
+DISPLAY
+17.3-inch
+4K UHD (3840 x 2160) 16:9
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+120Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+Pantone Validated
+Optimus
+
+RAM
+16GB DDR4 on board
+16GB DDR4-3200 SO-DIMM
+Max Capacity:
+48GB
+
+1TB + 1TB + 1TB PCIe® NVMe™ M.2 Performance SSD (RAID0)

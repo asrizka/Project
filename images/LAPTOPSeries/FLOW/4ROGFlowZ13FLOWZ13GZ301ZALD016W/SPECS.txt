@@ -1,0 +1,35 @@
+ROG Flow Z13 FLOW-Z13-GZ301ZA-LD016W
+
+CPU
+12th Gen Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores and 8 E-cores)
+
+GPU
+Intel® Iris Xᵉ Graphics
+
+DISPLAY
+13.4-inch
+FHD+ 16:10 (1920 x 1200, WUXGA)
+glossy display
+sRGB:
+100
+Touch Screen
+Refresh Rate:
+120Hz
+Response Time:
+30ms
+IPS-level
+Adaptive-Sync
+Pantone Validated
+Support stylus:
+Yes
+Support Dolby Vision HDR :
+Yes
+
+RAM
+8GB*2 LPDDR5 on board
+Max Capacity:
+16GB
+Support dual channel memory
+
+
+512GB PCIe® 4.0 NVMe™ M.2 SSD (2230)

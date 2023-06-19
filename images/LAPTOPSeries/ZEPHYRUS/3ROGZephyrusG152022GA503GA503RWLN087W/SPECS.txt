@@ -1,0 +1,35 @@
+ROG Zephyrus G15 (2022) GA503 GA503RW-LN087W
+
+CPU
+AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+GPU
+NVIDIA® GeForce RTX™ 3070 Ti Laptop GPU
+ROG Boost: 1085MHz* at 120W (1035MHz Boost Clock+50MHz OC, 100W+20W Dynamic Boost)
+8GB GDDR6
+
+DISPLAY
+15.6-inch
+WQHD (2560 x 1440) 16:9
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+240Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+Pantone Validated
+MUX Switch + Optimus
+Support Dolby Vision HDR :
+Yes
+
+RAM
+16GB DDR5 on board
+16GB DDR5-4800 SO-DIMM
+Max Capacity:
+48GB
+Support dual channel memory
+
+1TB PCIe® 4.0 NVMe™ M.2 SSD

@@ -1,0 +1,36 @@
+(1) ROG Strix SCAR 15 G533ZS-HF041X
+
+CPU
+12th Gen Intel® Core™ i9-12900H Processor 2.5 GHz (24M Cache, up to 5.0 GHz, 14 cores: 6 P-cores and 8 E-cores)
+
+GPU
+NVIDIA® GeForce RTX™ 3080 Laptop GPU
+ROG Boost: 1595MHz* at 150W (1545MHz Boost Clock+50MHz OC, 125W+25W Dynamic Boost)
+8GB GDDR6
+
+MONITOR
+15.6-inch
+FHD (1920 x 1080) 16:9
+anti-glare display
+sRGB:
+100%
+Adobe:
+75.35%
+Refresh Rate:
+300Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+MUX Switch + Optimus
+Support Dolby Vision HDR :
+Yes
+
+RAM
+32GB DDR5-4800 SO-DIMM x 2
+Max Capacity:
+64GB
+Support dual channel memory
+
+
+2TB PCIe® 4.0 NVMe™ M.2 Performance SSD

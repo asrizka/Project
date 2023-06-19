@@ -1,0 +1,32 @@
+(6) ROG Zephyrus M16 GU603 GU603HR-K8004R
+
+CPU
+Intel® Core™ i9-11900H Processor 2.5 GHz (24M Cache, up to 4.9 GHz, 8 Cores)
+
+GPU
+NVIDIA® GeForce RTX™ 3070 Laptop GPU
+With ROG Boost up to 1390MHz at 80W (100W with Dynamic Boost)
+8GB GDDR6
+
+DISPLAY
+16-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+165Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+Pantone Validated
+Optimus
+
+RAM
+16GB DDR4 on board
+16GB DDR4-3200 SO-DIMM
+Max Capacity:
+48GB
+
+2TB PCIe® 4.0 NVMe™ M.2 Performance SSD

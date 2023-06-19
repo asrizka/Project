@@ -1,0 +1,38 @@
+ROG Zephyrus Duo 16 (2022) GX650 GX650RX-LB011X
+
+CPU
+AMD Ryzen™ 9 6900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.9 GHz max boost)
+
+GPU
+NVIDIA® GeForce RTX™ 3080 Ti Laptop GPU
+ROG Boost: 1445 MHz* at 165W (1395MHz Boost Clock+50MHz OC, 140W+10W Dynamic Boost in Turbo Mode, 140W+25W in Manual Mode)
+16GB GDDR6
+
+DISPLAY
+ROG Nebula Display
+16-inch
+UHD+ 16:10 (3840 x 2400, WQUXGA) / FHD+ 16:10 (1920 x 1200, WUXGA)
+anti-glare display
+DCI-P3:
+100
+Refresh Rate:
+120Hz / 240Hz
+Response Time:
+3ms
+IPS-level
+FreeSync Premium
+Pantone Validated
+Optimus
+Support Dolby Vision HDR :
+Yes
+
+Additional Display
+ScreenPad™ Plus (14" 3840 x 1100(4K) IPS-level Panel Support Stylus)
+
+RAM
+32GB DDR5-4800 SO-DIMM x 2
+Max Capacity:
+64GB
+Support dual channel memory
+
+2TB + 2TB PCIe® 4.0 NVMe™ M.2 Performance SSD (RAID 0)

@@ -1,0 +1,28 @@
+ROG Strix SCAR 17 G733 G733QM-K4048R
+
+CPU
+AMD Ryzen™ 9 5900HX Mobile Processor (8-core/16-thread, 20MB cache, up to 4.6 GHz max boost)
+
+GPU
+NVIDIA® GeForce RTX™ 3060 Laptop GPU
+With ROG Boost up to 1802MHz at 115W (130W with Dynamic Boost)
+6GB GDDR6
+
+DISPLAY
+17.3-inch
+WQHD (2560 x 1440) 16:9
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+165Hz
+IPS-level
+Adaptive-Sync
+Optimus
+
+RAM
+32GB DDR4-3200 SO-DIMM x 2
+Max Capacity:
+64GB
+
+1TB + 1TB PCIe® 3.0 NVMe™ M.2 Performance RAID0 SSD

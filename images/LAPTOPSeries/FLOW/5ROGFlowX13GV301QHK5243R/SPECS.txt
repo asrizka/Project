@@ -1,0 +1,35 @@
+ROG Flow X13 GV301QH-K5243R
+
+CPU
+AMD Ryzen™ 9 5980HS Mobile Processor (8-core/16-thread, 20MB cache, up to 4.8 GHz max boost)
+
+GPU
+NVIDIA® GeForce GTX™ 1650	
+With ROG Boost up to 1255MHz at 35W
+4GB GDDR6
+
+DISPLAY
+13.4-inch
+UHD+ 16:10 (3840 x 2400, WQUXGA)
+glossy display
+sRGB:
+116%
+Adobe:
+86%
+DCI-P3:
+85%
+Touch Screen
+Refresh Rate:
+60Hz
+IPS-level
+Adaptive-Sync
+Pantone Validated
+Support stylus:
+Yes
+Optimus
+
+RAM
+16GB*2 LPDDR4X on board
+Max Capacity:
+32GB
+1TB PCIe® 3.0 NVMe™ M.2 SSD (2230)

@@ -1,0 +1,33 @@
+(2) ROG Strix SCAR 17 SE G733 G733CX-LL021X
+
+CPU
+12th Gen Intel® Core™ i9-12950HX Processor 2.3 GHz (30M Cache, up to 5.0 GHz, 16 cores: 8 P-cores and 8 E-cores)	
+
+GPU
+NVIDIA® GeForce RTX™ 3080 Ti Laptop GPU
+ROG Boost: 1640MHz* at 175W (1590MHz Boost Clock+50MHz OC, 150W+25W Dynamic Boost)
+16GB GDDR6
+
+DISPLAY
+17.3-inch
+WQHD (2560 x 1440) 16:9
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+240Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+MUX Switch + Optimus
+Support Dolby Vision HDR :
+Yes
+
+RAM
+32GB DDR5-4800 SO-DIMM x 2
+Max Capacity:
+64GB
+Support dual channel memory
+
+2TB + 2TB PCIe® 4.0 NVMe™ M.2 Performance SSD (RAID 0)

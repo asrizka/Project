@@ -1,0 +1,37 @@
+CPU
+12th Gen Intel® Core™ i9-12900H Processor 2.5 GHz (24M Cache, up to 5.0 GHz, 14 cores: 6 P-cores and 8 E-cores)
+
+GPU
+NVIDIA® GeForce RTX™ 3050 Ti Laptop GPU
+ROG Boost: 1085MHz* at 40W (1035MHz Boost Clock+50MHz OC, 35W+5W Dynamic Boost)
+4GB GDDR6
+
+DISPLAY
+13.4-inch
+UHD+ 16:10 (3840 x 2400, WQUXGA)
+glossy display
+DCI-P3:
+85
+Touch Screen
+Refresh Rate:
+60Hz
+Response Time:
+30ms
+IPS-level
+Adaptive-Sync
+Pantone Validated
+Support stylus:
+Yes
+MUX Switch + Optimus
+Support Dolby Vision HDR :
+Yes
+
+RAM
+8GB*2 LPDDR5 on board
+Max Capacity:
+16GB
+Support dual channel memory
+
+1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)
+
+

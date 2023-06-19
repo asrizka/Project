@@ -1,0 +1,39 @@
+(3) ROG Flow X13 GV301R-ELI120W
+
+CPU
+AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+GPU
+NVIDIA® GeForce RTX™ 3050 Laptop GPU
+ROG Boost: 1107.5MHz* at 40W (1057.5MHz Boost Clock+50MHz OC, 35W+5W Dynamic Boost)
+4GB GDDR6
+
+DISPLAY
+13.4-inch
+UHD+ 16:10 (3840 x 2400, WQUXGA)
+glossy display
+sRGB:
+116%
+Adobe:
+86%
+DCI-P3:
+85%
+Touch Screen
+Refresh Rate:
+60Hz
+IPS-level
+Adaptive-Sync
+Pantone Validated
+Support stylus:
+Yes
+MUX Switch + Optimus
+Support Dolby Vision HDR :
+Yes
+
+RAM
+16GB*2 LPDDR5 on board
+Max Capacity:
+32GB
+Support dual channel memory
+
+1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)

@@ -1,0 +1,36 @@
+(4) ROG Zephyrus G14 (2022) GA402 GA402RJ-L8106W
+
+CPU
+AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+GPU
+AMD Radeon™ RX 6700S
+ROG Boost: up to 100W(SmartShift)
+8GB GDDR6
+
+DISPLAY
+ROG Nebula Display
+14-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+anti-glare display
+DCI-P3:
+100%
+Refresh Rate:
+120Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+Pantone Validated
+MUX Switch
+Support Dolby Vision HDR :
+Yes
+
+RAM
+8GB DDR5 on board
+8GB DDR5-4800 SO-DIMM
+Max Capacity:
+24GB
+Support dual channel memory
+
+1TB PCIe® 4.0 NVMe™ M.2 SSD

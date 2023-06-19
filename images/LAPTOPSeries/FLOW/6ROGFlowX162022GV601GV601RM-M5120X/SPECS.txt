@@ -1,0 +1,38 @@
+ROG Flow X16 (2022) GV601 GV601RM-M5120X
+
+CPU
+AMD Ryzen™ 9 6900HS Mobile Processor (8-core/16-thread, 16MB cache, up to 4.9 GHz max boost)
+
+GPU
+NVIDIA® GeForce RTX™ 3060 Laptop GPU
+ROG Boost: 1475MHz* at 125W (1425MHz Boost Clock+50MHz OC, 100W+25W Dynamic Boost)
+6GB GDDR6
+
+DISPLAY
+ROG Nebula HDR Display
+16-inch
+QHD+ 16:10 (2560 x 1600, WQXGA)
+glossy display
+DCI-P3:
+100%
+Touch Screen
+Refresh Rate:
+165Hz
+Response Time:
+3ms
+Mini LED
+FreeSync Premium Pro
+Pantone Validated
+Support stylus:
+Yes
+MUX Switch + Optimus
+Support Dolby Vision HDR :
+Yes
+
+RAM
+32GB DDR5-4800 SO-DIMM x 2
+Max Capacity:
+64GB
+Support dual channel memory
+
+2TB PCIe® 4.0 NVMe™ M.2 Performance SSD

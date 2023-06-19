@@ -1,0 +1,32 @@
+ROG Strix G17 G713 G713IC-HG035R
+
+CPU
+AMD Ryzen™ 7 4800H Mobile Processor (8-core/16-thread, 12MB Cache, 4.2 GHz max boost)
+
+GPU
+NVIDIA® GeForce RTX™ 3050 Laptop GPU
+With ROG Boost up to 1840MHz at 80W (95W with Dynamic Boost)
+4GB GDDR6
+
+DISPLAY
+17.3-inch
+FHD (1920 x 1080) 16:9
+anti-glare display
+sRGB:
+100%
+Adobe:
+75.35%
+Refresh Rate:
+300Hz
+Response Time:
+3ms
+IPS-level
+Adaptive-Sync
+Optimus
+
+RAM
+16GB DDR4-3200 SO-DIMM x 2
+Max Capacity:
+32GB
+
+1TB PCIe® 3.0 NVMe™ M.2 SSD
